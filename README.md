@@ -1,4 +1,4 @@
-# Neural-Style-Transfer
+# Neural Style Transfer
 
 This project is a experimentation of the popular [Neural Style Transfer][1] by Gatys et al.
 
@@ -14,9 +14,9 @@ This script automatically explores the parameter space by randomly selecting pai
 
 Navigate to `src` directory and execute `python main.py`.
 
-[1]:https://arxiv.org/pdf/1508.06576.pdf
-
 ## Reference
 ```
 Gatys, L. A., Ecker, A. S., & Bethge, M. (2016). Image style transfer using convolutional neural networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2414-2423).
 ```
+
+[1]:https://arxiv.org/pdf/1508.06576.pdf
